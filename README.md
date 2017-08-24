@@ -1,7 +1,7 @@
 # first-expressjs-app
 simple express app
 
-
+![Alt text](/readme/cover.png?raw=true "myFirstApp")
 
 >>>>> My First Express.js App
 
