@@ -1,0 +1,19 @@
+{
+  "name": "first-expressjs-app",
+  "version": "1.0.0",
+  "description": "simple express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdavi95/first-expressjs-app.git"
+  },
+  "author": "Ali Mahdavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahdavi95/first-expressjs-app/issues"
+  },
+  "homepage": "https://github.com/mahdavi95/first-expressjs-app#readme"
+}
